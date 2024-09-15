@@ -16,18 +16,15 @@ Generate meal plans: Create personalized meal plans based on your preferences an
 ## Getting Started:
 Clone the repository:
 Bash
-### git clone [https://github.com/your-username/MyRecipeApp.git](https://github.com/BestShivam/MyRecipeApp.git)
+ git clone [https://github.com/your-username/MyRecipeApp.git](https://github.com/BestShivam/MyRecipeApp.git)
 Use code with caution.
 
-Open the project in Android Studio:
+## Open the project in Android Studio:
 Open Android Studio and select "Open an existing Android Studio project".
 Navigate to the cloned directory and open the project.   
-Run the app:
+- Run the app:
 Connect your Android device or emulator.
 Click the "Run" button in Android Studio.
-## Project Structure:
+## Screenshots
+![MyRecipeApp – RecipeScreen kt  MyRecipeApp app main  9_15_2024 9_17_36 PM](https://github.com/user-attachments/assets/5fec94ce-ab41-4f4b-ac01-998b2c4ac7a4)
 
-app: Contains the main application code, including activities, fragments, and layouts.
-data: Contains data models and network requests using Retrofit.
-domain: Contains business logic and interfaces for the application.
-presentation: Contains the UI components and view models.
