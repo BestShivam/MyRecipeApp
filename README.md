@@ -28,3 +28,7 @@ Click the "Run" button in Android Studio.
 ## Screenshots
 ![MyRecipeApp – RecipeScreen kt  MyRecipeApp app main  9_15_2024 9_17_36 PM](https://github.com/user-attachments/assets/5fec94ce-ab41-4f4b-ac01-998b2c4ac7a4)
 
+![image](https://github.com/user-attachments/assets/72d13d3c-14cd-47f6-a022-1cc19a33ebc3)
+
+
+
